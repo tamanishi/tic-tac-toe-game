@@ -142,3 +142,50 @@ Built with ❤️ using modern web technologies. Perfect for learning game devel
 ---
 
 **Enjoy playing!** 🎮
+
+## 📊 Appendix: Development History
+
+### Claude Code Usage Summary
+
+This repository was created entirely using [Claude Code](https://claude.ai/code), Anthropic's official CLI for Claude. The development process showcased Claude Code's capabilities in full-stack web development, from initial project setup to implementing complex AI algorithms.
+
+#### Development Timeline
+
+1. **Initial Setup** - Created basic project structure and CLAUDE.md template
+2. **Core Game Implementation** - Built HTML structure, CSS styling, and JavaScript game logic
+3. **AI Enhancement** - Added CPU opponent with multiple difficulty levels and strategic gameplay
+
+#### Key Features Implemented
+
+- **Interactive Game Board** - 3x3 grid with click-to-play functionality
+- **Dual Game Modes** - Player vs Player and Player vs CPU options
+- **Intelligent AI** - Three difficulty levels with strategic decision-making
+- **Modern UI/UX** - Responsive design with smooth animations
+- **Game State Management** - Win detection, draw handling, and reset functionality
+
+#### Technical Implementation
+
+- **Pure JavaScript** - No external dependencies, showcasing vanilla JS capabilities
+- **CSS Grid & Flexbox** - Modern layout techniques for responsive design
+- **Object-Oriented Design** - Clean, maintainable code architecture
+- **Strategic AI Algorithm** - Implements minimax-like decision trees for optimal play
+
+#### Development Metrics
+
+- **Total Cost:** $0.77
+- **API Duration:** 7 minutes 44 seconds
+- **Wall Clock Time:** 27 minutes 57 seconds
+- **Code Changes:** 607 lines added, 7 lines removed
+- **Token Usage:**
+  - Claude Sonnet: 121 input, 14.6k output, 1.2m cache read, 41.3k cache write
+  - Claude 3.5 Haiku: 22.8k input, 1.0k output
+
+#### Files Created
+
+- `index.html` - Game structure and UI elements
+- `style.css` - Styling, animations, and responsive design
+- `script.js` - Game logic, AI implementation, and user interactions
+- `CLAUDE.md` - Development guidance for future Claude Code instances
+- `README.md` - Comprehensive project documentation
+
+This project demonstrates Claude Code's ability to create production-ready web applications with complex features like AI opponents, responsive design, and modern user interfaces—all through natural language conversation and automated code generation.
