@@ -1,5 +1,7 @@
 # Tic-Tac-Toe Game
 
+> 🤖 **This repository was created using [Claude Code](https://claude.ai/code)** - Anthropic's official CLI for Claude
+
 A modern, interactive tic-tac-toe game built with HTML, CSS, and JavaScript. Features both Player vs Player and Player vs CPU modes with multiple difficulty levels.
 
 ## 🎮 Features
